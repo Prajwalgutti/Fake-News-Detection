@@ -1,0 +1,22 @@
+Project Title : Fake News Detection
+Name: Prajwal Kumar V Gutti
+
+Source: Kaggle
+Link: https://drive.google.com/file/d/1-gdjSePM6Wu7HNiWut14PVbEn9Nni5zk/view?usp=drive_link
+
+Dataset Consists Of:
+44962 Datapoints
+3 Data Features 
+
+Data Features are:
+Title - Which Tells us about the title of the news
+content - content of the news
+real - Output column which tells the news is real or fake
+       if real news output as 1 or fake news output as 0
+
+Platform Using : Jupiter NoteBook 
+
+This is Finalized Data
+
+Thank You Madam                                        Project Guide 
+                                                       Pranaya Madam
